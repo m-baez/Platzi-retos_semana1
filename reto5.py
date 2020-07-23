@@ -14,7 +14,7 @@ def main():
     n3 = int(input(
         'Ahora un tercer número, este servirá para multiplicar el resultado de la suma: '))
     resMult = (resSuma * n3).__round__(2)
-    print('\n El resultado es: {}'.format(resMult))
+    print('\nEl resultado es: {}'.format(resMult))
 
 
 if __name__ == '__main__':

@@ -10,7 +10,7 @@ def main():
     n2 = float(input('Ingresa el segundo número: '))
     res = (n1 + n2).__round__(2)
 
-    print('\n El resultado de tu suma es: {}'.format(res))
+    print('\nEl resultado de tu suma es: {}'.format(res))
 
 
 if __name__ == '__main__':
